@@ -1,0 +1,1 @@
+export default function Page(){return (<div><h2 className='text-2xl font-semibold'>Termeni și condiții</h2><p className='mt-2 text-sm text-gray-700'>Termenii și condițiile site-ului.</p></div>)}
